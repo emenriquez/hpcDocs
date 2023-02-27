@@ -1,3 +1,7 @@
+---
+title: Configure Virtual Environment
+order: 8
+---
 # Add to Existing Shared Environment
 
 ```

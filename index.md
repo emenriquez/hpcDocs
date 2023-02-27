@@ -25,3 +25,5 @@ Here you will find some useful references for working with the Cradle HPC cluste
 [Submitting a Job](/docs/jobSubmission.md)
 
 [Preinstalled Software](/docs/installedSoftware.md)
+
+[Configure your Virtual Environment](/docs/configureEnvironment.md)
