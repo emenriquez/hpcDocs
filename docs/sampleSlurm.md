@@ -1,6 +1,6 @@
 ---
 title: Sample Script for SLURM Job
-order: 5
+order: 6
 ---
 # Sample Script for a SLURM job
 

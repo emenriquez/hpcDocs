@@ -1,6 +1,6 @@
 ---
 title: Submitting a Job to SLURM
-order: 6
+order: 7
 ---
 # Submitting a Job to SLURM
 

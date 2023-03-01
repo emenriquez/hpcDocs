@@ -1,6 +1,6 @@
 ---
 title: Preinstalled Software
-order: 7
+order: 8
 ---
 # Preinstalled Software
  - Tensorflow 2.6.2
