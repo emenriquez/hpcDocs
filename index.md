@@ -27,3 +27,5 @@ Here you will find some useful references for working with the Cradle HPC cluste
 [Preinstalled Software](/docs/installedSoftware.md)
 
 [Configure your Virtual Environment](/docs/configureEnvironment.md)
+
+[Acknowledgement Statment](/docs/fundingStatement.md)

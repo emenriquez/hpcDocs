@@ -1,3 +1,7 @@
+---
+title: Transferring Files to Cradle
+order: 5
+---
 # Transferring Files to the Cluster
 
 In order to transfer files to work on the cluster, it is recommended to use one of the following methods
