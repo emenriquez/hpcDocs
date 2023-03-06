@@ -11,8 +11,6 @@ Here you will find some useful references for working with the Cradle HPC cluste
 
 [Login Information](/docs/login)
 
-[Contact for Troubleshooting](mailto:erik.enriquez01@utrgv.edu)
-
 
 
 ## Working on Cradle
@@ -29,3 +27,8 @@ Here you will find some useful references for working with the Cradle HPC cluste
 [Configure your Virtual Environment](/docs/configureEnvironment.md)
 
 [Acknowledgement Statment](/docs/fundingStatement.md)
+
+## Issues?
+[Contact for Troubleshooting](mailto:erik.enriquez01@utrgv.edu)
+
+[FAQ / Troubleshooting](/docs/troubleshooting.md)
