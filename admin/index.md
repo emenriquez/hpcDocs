@@ -1,3 +1,7 @@
+---
+title: Admin Home
+order: 1
+---
 # Admin Documentation for Cradle HPC
 
 This documentation will be used to store and take note of useful procedures for the cluster that is relevant to superusers or sysadmin. If there is anything you think of that can be added to this, please let me know. 

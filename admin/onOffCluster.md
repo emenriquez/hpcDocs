@@ -1,3 +1,7 @@
+---
+title: Power On/Off
+order: 3
+---
 # Power On / Off Procedures
 
 ## Power Off
